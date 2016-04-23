@@ -1554,8 +1554,12 @@
         <translation>Настройки за контрол на монетите</translation>
     </message>
     <message>
+        <source>Inputs...</source>
+        <translation>Входящи...</translation>
+    </message>
+    <message>
         <source>automatically selected</source>
-        <translation>автоматично избран</translation>
+        <translation>автоматично избрани</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
@@ -1583,15 +1587,19 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>След прилагане на ДДС</translation>
+        <translation>След такси:</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Ресто</translation>
+        <translation>Ресто:</translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
         <translation>Ако тази опция е активирана,но адресът на промяна е празен или невалиден,промяната ще бъде изпратена на новосъздаден адрес.</translation>
+    </message>
+    <message>
+        <source>Custom change address</source>
+        <translation>Потребителска смяна на адрес</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
