@@ -58,11 +58,11 @@
         <translation>Recepción de direcciones</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Aurumcoin address for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Estas son tus direcciones Bitcoin para realizar pagos. Siempre checa el monto y la dirección de recepción antes de enviar monedas.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Aurumcoin address for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Estas son tus direcciones Bitcoin para recibir pagos. Es recomendable usar una nueva dirección para cada transacción.</translation>
     </message>
     <message>
@@ -152,7 +152,7 @@
         <translation>Confirmar encriptación de billetera</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AURUMCOINS&lt;/b&gt;!</source>
         <translation>Aviso: Si encriptas tu billetera y pierdes tu frase secreta, ¡PERDERÁS TODOS TUS BITCOINS!</translation>
     </message>
     <message>
@@ -242,7 +242,7 @@
         <translation>Recepción de direcciones</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Aurumcoin AU client</source>
         <translation>Cliente Bitcoin Core</translation>
     </message>
     <message>
@@ -254,7 +254,7 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
+        <source>Send coins to a Aurumcoin AU address</source>
         <translation>Enviar monedas a una dirección Bitcoin</translation>
     </message>
     <message>
@@ -286,7 +286,7 @@
         <translation>&amp;Recibir</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
+        <source>Show information about Aurumcoin AU</source>
         <translation>Mostrar información acerca de Bitcoin Core</translation>
     </message>
     <message>
@@ -302,11 +302,11 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
+        <source>Sign messages with your Aurumcoin address to prove you own them</source>
         <translation>Firma mensajes con tus direcciones Bitcoin para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
+        <source>Verify messages to ensure they were signed with specified Aurumcoin address</source>
         <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Bitcoin especificas</translation>
     </message>
     <message>
@@ -318,11 +318,11 @@
         <translation>&amp;Configuración</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Aurumcoin AU</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Aurumcoin AU</source>
         <translation>Acerca de Bitcoin Core</translation>
     </message>
     <message>
@@ -635,7 +635,7 @@
         <translation>La dirección introducida "%1" ya está en el libro de direcciones.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
+        <source>The entered address "%1" is not a valid Aurumcoin address.</source>
         <translation>La dirección introducida "%1" no es una dirección Bitcoin válida.</translation>
     </message>
     <message>
@@ -673,7 +673,7 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Aurumcoin AU</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -685,7 +685,7 @@
         <translation>(%1-bit)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
+        <source>About Aurumcoin AU</source>
         <translation>Acerca de Bitcoin Core</translation>
     </message>
     <message>
@@ -704,7 +704,7 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Bitcoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Aurumcoin AU will download and store a copy of the Aurumcoin AU block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>Bitcoin Core descargará y almacenará una copia de la cadena de bloques Bitcoin. Al menos %1GB de datos serán almacenados en este directorio, y crecerá con el tiempo. La billetera será también almacenada en este directorio.</translation>
     </message>
     <message>
@@ -716,7 +716,7 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Aurumcoin AU</source>
         <translation>Bitcoin Core</translation>
     </message>
     <message>
@@ -936,7 +936,7 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
+        <source>Aurumcoin AU</source>
         <translation>Bitcoin Core</translation>
     </message>
     </context>
@@ -1102,7 +1102,7 @@
         <translation>Esta es una compilación de prueba pre-lanzamiento - use bajo su propio riesgo - no utilizar para aplicaciones de minería o mercantes</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Aurumcoin AU is probably already running.</source>
         <translation>Deshabilitar para enlezar a %s en esta computadora. Bitcoin Core probablemente ya está ejecutándose.</translation>
     </message>
     <message>

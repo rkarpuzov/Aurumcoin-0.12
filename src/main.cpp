@@ -1905,7 +1905,7 @@ void PartitionCheck(bool (*initialDownloadCheck)(), CCriticalSection& cs, const 
     int64_t now = GetAdjustedTime();
     if (lastAlertTime > now-60*60*24) return; // Alert at most once per day
 
-    const int SPAN_HOURS=4;
+    const int SPAN_HOURS=1;
     const int SPAN_SECONDS=SPAN_HOURS*60*60;
     int BLOCKS_EXPECTED = SPAN_SECONDS / nPowTargetSpacing;
 
@@ -1933,13 +1933,13 @@ void PartitionCheck(bool (*initialDownloadCheck)(), CCriticalSection& cs, const 
     const int FIFTY_YEARS = 50*365*24*60*60;
     double alertThreshold = 1.0 / (FIFTY_YEARS / SPAN_SECONDS);
 
-    if (p <= alertThreshold && nBlocks < BLOCKS_EXPECTED)
+    if (p <= alertThreshold && nBlocks < (BLOCKS_EXPECTED -10))
     {
         // Many fewer blocks than expected: alert!
         strWarning = strprintf(_("WARNING: check your network connection, %d blocks received in the last %d hours (%d expected)"),
                                nBlocks, SPAN_HOURS, BLOCKS_EXPECTED);
     }
-    else if (p <= alertThreshold && nBlocks > BLOCKS_EXPECTED)
+    else if (p <= alertThreshold && nBlocks > (BLOCKS_EXPECTED +10))
     {
         // Many more blocks than expected: alert!
         strWarning = strprintf(_("WARNING: abnormally high number of blocks generated, %d blocks received in the last %d hours (%d expected)"),

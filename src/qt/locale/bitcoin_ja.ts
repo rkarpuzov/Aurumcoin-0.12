@@ -54,7 +54,7 @@
         <translation>支払いを受け取るアドレスを指定する</translation>
     </message>
     <message>
-        <source>&amp;Choose</source>
+        <source>C&amp;hoose</source>
         <translation>選び出す(&amp;C)</translation>
     </message>
     <message>
@@ -66,11 +66,11 @@
         <translation>アドレス受信中</translation>
     </message>
     <message>
-        <source>These are your Aurum addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Aurumcoin address for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>これらは支払いを送信するためのあなたの Aurum アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
     </message>
     <message>
-        <source>These are your Aurum addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Aurumcoin address for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>これらは支払いを受け取るためのビットコインアドレスです。トランザクションごとに新しい受け取り用アドレスを作成することが推奨されます。</translation>
     </message>
     <message>
@@ -160,7 +160,7 @@
         <translation>ウォレットの暗号化を確認する</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AURUM&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AURUMCOINS&lt;/b&gt;!</source>
         <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの Aurum はすべて失われます&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -168,8 +168,8 @@
         <translation>本当にウォレットを暗号化しますか?</translation>
     </message>
     <message>
-        <source>Aurum Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>暗号化処理を完了させるため Aurum Core をいますぐ終了します。ウォレットの暗号化では、コンピュータに感染したマルウェアなどによるビットコインの盗難から完全に守ることはできないことにご注意ください。</translation>
+        <source>Aurumcoin AU will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your aurumcoins from being stolen by malware infecting your computer.</source>
+        <translation>暗号化処理を完了させるため Aurumcoin AU をいますぐ終了します。ウォレットの暗号化では、コンピュータに感染したマルウェアなどによるビットコインの盗難から完全に守ることはできないことにご注意ください。</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -262,7 +262,7 @@
         <translation>取引履歴を閲覧</translation>
     </message>
     <message>
-        <source>&amp;Exit</source>
+        <source>E&amp;xit</source>
         <translation>出所(&amp;E)</translation>
     </message>
     <message>
@@ -306,8 +306,8 @@
         <translation>URI を開く (&amp;U)...</translation>
     </message>
     <message>
-        <source>Aurum Core client</source>
-        <translation>Aurumコア クライアント</translation>
+        <source>Aurumcoin AU client</source>
+        <translation>Aurumcoin AU コア クライアント</translation>
     </message>
     <message>
         <source>Importing blocks from disk...</source>
@@ -318,8 +318,8 @@
         <translation>ディスク上のブロックのインデックスを再作成中...</translation>
     </message>
     <message>
-        <source>Send coins to a Aurum address</source>
-        <translation>Aurum アドレスにコインを送る</translation>
+        <source>Send coins to a Aurumcoin AU address</source>
+        <translation>Aurumcoin AU アドレスにコインを送る</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -342,8 +342,8 @@
         <translation>メッセージの検証... (&amp;V)</translation>
     </message>
     <message>
-        <source>Aurum</source>
-        <translation>Aurum</translation>
+        <source>Bitcoin</source>
+        <translation>Bitcoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -358,8 +358,8 @@
         <translation>受け取る (&amp;R)</translation>
     </message>
     <message>
-        <source>Show information about Aurum Core</source>
-        <translation>Aurumコアに関する情報を表示</translation>
+        <source>Show information about Aurumcoin AU</source>
+        <translation>Aurumcoin AU コアに関する情報を表示</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -374,12 +374,12 @@
         <translation>あなたのウォレットの秘密鍵を暗号化します</translation>
     </message>
     <message>
-        <source>Sign messages with your Aurum addresses to prove you own them</source>
-        <translation>あなたが所有していることを証明するために、あなたの Aurum アドレスでメッセージに署名してください</translation>
+        <source>Sign messages with your Aurumcoin address to prove you own them</source>
+        <translation>あなたが所有していることを証明するために、あなたの Aurumcoin アドレスでメッセージに署名してください</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Aurum addresses</source>
-        <translation>指定された Aurum アドレスで署名されたことを確認するためにメッセージを検証します</translation>
+        <source>Verify messages to ensure they were signed with specified Aurumcoin address</source>
+        <translation>指定された Aurumcoin アドレスで署名されたことを確認するためにメッセージを検証します</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -398,20 +398,20 @@
         <translation>タブツールバー</translation>
     </message>
     <message>
-        <source>Aurum Core</source>
-        <translation>Aurum のコア</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin のコア</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and aurum: URIs)</source>
-        <translation>支払いを要求する (QRコードとaurum:ではじまるURIを生成する)</translation>
+        <source>Request payments (generates QR codes and aurumcoin: URIs)</source>
+        <translation>支払いを要求する (QRコードとaurumcoin:ではじまるURIを生成する)</translation>
     </message>
     <message>
-        <source>&amp;About Aurum Core</source>
-        <translation>Aurum Coreについて (&amp;A)</translation>
+        <source>&amp;About Aurumcoin AU</source>
+        <translation>Aurumcoin AUについて (&amp;A)</translation>
     </message>
     <message>
-        <source>Modify configuration options for Aurum Core</source>
-        <translation>Aurum Core の設定を編集する</translation>
+        <source>Modify configuration options for Aurumcoin AU</source>
+        <translation>Aurumcoin AU の設定を編集する</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -422,20 +422,20 @@
         <translation>支払いを受け取るアドレスとラベルのリストを表示する</translation>
     </message>
     <message>
-        <source>Open a aurum: URI or payment request</source>
-        <translation>aurum: URIまたは支払いリクエストを開く</translation>
+        <source>Open a aurumcoin: URI or payment request</source>
+        <translation>aurumcoin: URIまたは支払いリクエストを開く</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>コマンドラインオプション (&amp;C)</translation>
     </message>
     <message>
-        <source>Show the Aurum Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>有効な Aurum のコマンドライン オプションを見るために Bitcoin Core のヘルプメッセージを表示します。</translation>
+        <source>Show the Aurumcoin AU help message to get a list with possible Bitcoin command-line options</source>
+        <translation>有効な Aurumcoin のコマンドライン オプションを見るために Bitcoin のヘルプメッセージを表示します。</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Aurum network</source>
-        <translation><numerusform>%n の Aurum ネットワークへのアクティブな接続</numerusform></translation>
+        <source>%n active connection(s) to Aurumcoin AU network</source>
+        <translation><numerusform>%n の Aurumcoin AU ネットワークへのアクティブな接続</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -817,7 +817,7 @@
         <translation>入力されたアドレス "%1" は既にアドレス帳にあります。</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
+        <source>The entered address "%1" is not a valid Aurumcoin address.</source>
         <translation>入力されたアドレス "%1" は無効な Bitcoin アドレスです。</translation>
     </message>
     <message>
@@ -855,8 +855,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Aurum Core</source>
-        <translation>Aurum のコア</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU のコア</translation>
     </message>
     <message>
         <source>version</source>
@@ -867,8 +867,8 @@
         <translation>(%1ビット)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Bitcoinコアについて</translation>
+        <source>About Aurumcoin AU</source>
+        <translation>Auruncoinコアについて</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -918,16 +918,16 @@
         <translation>ようこそ</translation>
     </message>
     <message>
-        <source>Welcome to Aurum Core.</source>
+        <source>Welcome to Aurumcoin AU.</source>
         <translation>ようこそ！</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Aurum Core will store its data.</source>
-        <translation>これはプログラム最初の起動です。Aurum Coreがデータを保存する場所を選択して下さい。</translation>
+        <source>As this is the first time the program is launched, you can choose where Aurumcoin AU will store its data.</source>
+        <translation>これはプログラム最初の起動です。Aurumcoin AU がデータを保存する場所を選択して下さい。</translation>
     </message>
     <message>
-        <source>Bitcoin Core will download and store a copy of the Aurum block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Aurum Coreは、ビットコインのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
+        <source>Aurumcoin AU will download and store a copy of the Aurumcoin AU block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Aurumcoin AU は、ビットコインのブロックチェーンのコピーを、ダウンロードして保存します。少なくとも%1ギガバイトのデータが、このディレクトリに保存されます。そしてそれは時間と共に増加します。またウォレットもこのディレクトリに保存されます。</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -938,8 +938,8 @@
         <translation>任意のデータ ディレクトリを使用:</translation>
     </message>
     <message>
-        <source>Aurum Core</source>
-        <translation>Aurum のコア</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU のコア</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -1020,8 +1020,8 @@
         <translation>ウィンドウを閉じる際にアプリケーションを終了するのではなく、最小化します。このオプションが有効化された場合、メニューから終了を選択した場合にのみアプリケーションは閉じられます。</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Aurum Core.</source>
-        <translation>ユーザ・インタフェイス言語はここで設定できます。この設定はAurum Coreの再起動後に有効となります。</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Aurumcoin AU.</source>
+        <translation>ユーザ・インタフェイス言語はここで設定できます。この設定はAurumcoin AUの再起動後に有効となります。</translation>
     </message>
     <message>
         <source>Third party URLs (e.g. a block explorer) that appear in the transactions tab as context menu items. %s in the URL is replaced by transaction hash. Multiple URLs are separated by vertical bar |.</source>
@@ -1048,12 +1048,12 @@
         <translation>ネットワーク (&amp;N)</translation>
     </message>
     <message>
-        <source>Automatically start Aurum Core after logging in to the system.</source>
-        <translation>システムにログインした際、自動的にAurum Coreを起動する。</translation>
+        <source>Automatically start Aurumcoin AU after logging in to the system.</source>
+        <translation>システムにログインした際、自動的にAurumcoin AUを起動する。</translation>
     </message>
     <message>
-        <source>&amp;Start Aurum Core on system login</source>
-        <translation>システムへログインした際にAurum Coreを起動する (&amp;S)</translation>
+        <source>&amp;Start Aurumcoin AU on system login</source>
+        <translation>システムへログインした際にAurumcoin AUを起動する (&amp;S)</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1080,16 +1080,16 @@
         <translation>未検証のおつりを使用する (&amp;S)</translation>
     </message>
     <message>
-        <source>Automatically open the Aurum client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動的にルーター上の Aurum クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
+        <source>Automatically open the Bitcoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自動的にルーター上の Aurumcoin AU クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
         <translation>UPnP を使ってポートを割り当てる (&amp;U)</translation>
     </message>
     <message>
-        <source>Connect to the Aurum network through a SOCKS5 proxy.</source>
-        <translation>SOCKS5 プロキシ経由でAurumネットワークに接続する</translation>
+        <source>Connect to the Aurumcoin AU network through a SOCKS5 proxy.</source>
+        <translation>SOCKS5 プロキシ経由でAurumcoin AUネットワークに接続する</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1128,8 +1128,8 @@
         <translation>Tor</translation>
     </message>
     <message>
-        <source>Connect to the Aurum network through a separate SOCKS5 proxy for Tor hidden services.</source>
-        <translation>Tor秘匿サービスを利用するため、独立なSOCKS5プロキシ経由でAurumネットワークに接続する</translation>
+        <source>Connect to the Aurumcoin AU network through a separate SOCKS5 proxy for Tor hidden services.</source>
+        <translation>Tor秘匿サービスを利用するため、独立なSOCKS5プロキシ経由でAurumcoin AUネットワークに接続する</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services:</source>
@@ -1215,8 +1215,8 @@
         <translation>フォーム</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aurum network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは Aurum ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aurumcoin AU network after a connection is established, but this process has not completed yet.</source>
+        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは Aurumcoin AU ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1314,16 +1314,16 @@
         <translation>支払いのリクエストのエラーです</translation>
     </message>
     <message>
-        <source>Cannot start aurum: click-to-pay handler</source>
-        <translation>Aurum を起動できません: click-to-pay handler</translation>
+        <source>Cannot start aurumcoin: click-to-pay handler</source>
+        <translation>を起動できません aurumcoin: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request fetch URL is invalid: %1</source>
         <translation>支払い要求の取得先URLが無効です: %1</translation>
     </message>
     <message>
-        <source>URI cannot be parsed! This can be caused by an invalid Aurum address or malformed URI parameters.</source>
-        <translation>URI を解析できません! これは無効な Aurum アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。</translation>
+        <source>URI cannot be parsed! This can be caused by an invalid Aurumcoin address or malformed URI parameters.</source>
+        <translation>URI を解析できません! これは無効な Aurumcoin AU アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1396,8 +1396,8 @@
         <translation>総額</translation>
     </message>
     <message>
-        <source>Enter a Aurum address (e.g. %1)</source>
-        <translation>Aurumアドレスを入力してください (例 %1)</translation>
+        <source>Enter a Aurumcoin address (e.g. %1)</source>
+        <translation>Aurumcoin AUアドレスを入力してください (例 %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1518,7 +1518,7 @@
         <translation>メモリ使用量</translation>
     </message>
     <message>
-        <source>Open the Aurum Core debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Aurumcoin AU debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>現在のデータディレクトリからAurum Coreのデバッグ用ログファイルを開きます。ログファイルが巨大な場合、数秒かかることがあります。</translation>
     </message>
     <message>
@@ -1678,8 +1678,8 @@
         <translation>ノードのbanを解除する (&amp;U)</translation>
     </message>
     <message>
-        <source>Welcome to the Aurum Core RPC console.</source>
-        <translation>Aurum CoreのRPCコンソールへようこそ。</translation>
+        <source>Welcome to the Aurumcoin AU RPC console.</source>
+        <translation>Aurumcoin AUのRPCコンソールへようこそ。</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1761,8 +1761,8 @@
         <translation>既存の受取用アドレスを再利用する (非推奨) (&amp;E)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Bitcoin network.</source>
-        <translation>支払リクエストが開始された時に表示される、支払リクエストに添える任意のメッセージです。注意：メッセージはBitcoinネットワークを通じて、支払と共に送られるわけではありません。</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Aurumcoin AU network.</source>
+        <translation>支払リクエストが開始された時に表示される、支払リクエストに添える任意のメッセージです。注意：メッセージはAurumcoin AUネットワークを通じて、支払と共に送られるわけではありません。</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1982,8 +1982,8 @@
         <translation>1キロバイトあたり手数料</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 aurtoshi and the transaction is only 250 bytes, then "per kilobyte" only pays 250 aurtoshi in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
-        <translation>カスタム手数料が1000aurtoshiに設定されている場合、トランザクションサイズが250バイトとすると、「1キロバイトあたり手数料」では250aurtoshiの手数料のみを支払いますが、「最小手数料」では1000satoshiを支払います。1キロバイトを超えるトランザクションの場合には、どちらの方法を選択したとしても1キロバイトあたりで支払われます。</translation>
+        <source>If the custom fee is set to 1000 satoshis and the transaction is only 250 bytes, then "per kilobyte" only pays 250 satoshis in fee, while "total at least" pays 1000 satoshis. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <translation>カスタム手数料が1000 satoshiに設定されている場合、トランザクションサイズが250バイトとすると、「1キロバイトあたり手数料」では250aurtoshiの手数料のみを支払いますが、「最小手数料」では1000satoshiを支払います。1キロバイトを超えるトランザクションの場合には、どちらの方法を選択したとしても1キロバイトあたりで支払われます。</translation>
     </message>
     <message>
         <source>Hide</source>
@@ -2154,8 +2154,8 @@
         <translation>重複したアドレスが見つかりました: アドレスはそれぞれ一度のみ使用することができます。</translation>
     </message>
     <message>
-        <source>Warning: Invalid Aurum address</source>
-        <translation>警告：無効なAurumアドレスです</translation>
+        <source>Warning: Invalid Aurumcoin address</source>
+        <translation>警告：無効なAurumcoin AUアドレスです</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -2205,8 +2205,8 @@
         <translation>これは通常の支払です。</translation>
     </message>
     <message>
-        <source>The Aurum address to send the payment to</source>
-        <translation>支払の送金先Aurumアドレス</translation>
+        <source>The Aurumcoin address to send the payment to</source>
+        <translation>支払の送金先Aurumcoin AUアドレス</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -2225,7 +2225,7 @@
         <translation>この項目を削除する</translation>
     </message>
     <message>
-        <source>The fee will be deducted from the amount being sent. The recipient will receive less aurum than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
+        <source>The fee will be deducted from the amount being sent. The recipient will receive less bitcoins than you enter in the amount field. If multiple recipients are selected, the fee is split equally.</source>
         <translation>送金する金額から手数料が差し引かれます。受取人は数量フィールドで指定した量よりも少ないビットコインを受け取ります。受取人が複数いる場合には、手数料は均等割されます。</translation>
     </message>
     <message>
@@ -2249,8 +2249,8 @@
         <translation>このアドレスに対するラベルを入力することで、使用済みアドレスの一覧に追加することができます</translation>
     </message>
     <message>
-        <source>A message that was attached to the bitcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Bitcoin network.</source>
-        <translation>bitcoin: URIに添付されていたメッセージです。これは参照用としてトランザクションとともに保存されます。注意：このメッセージはBitcoinネットワークを通して送信されるわけではありません。</translation>
+        <source>A message that was attached to the aurumcoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the Aurumcoin AU network.</source>
+        <translation>aurumcoin: URIに添付されていたメッセージです。これは参照用としてトランザクションとともに保存されます。注意：このメッセージはAurumcoin AUネットワークを通して送信されるわけではありません。</translation>
     </message>
     <message>
         <source>Pay To:</source>
@@ -2264,8 +2264,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Aurum Core is shutting down...</source>
-        <translation>Aurum Coreをシャットダウンしています。</translation>
+        <source>Aurumcoin AU is shutting down...</source>
+        <translation>Aurumcoin AUをシャットダウンしています。</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2283,12 +2283,12 @@
         <translation>メッセージの署名 (&amp;S)</translation>
     </message>
     <message>
-        <source>You can sign messages/agreements with your addresses to prove you can receive aurums sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
+        <source>You can sign messages/agreements with your addresses to prove you can receive bitcoins sent to them. Be careful not to sign anything vague or random, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
         <translation>あなたの所有しているアドレスによりメッセージや合意書に署名をすることで、それらアドレスに対して送られたビットコインを受け取ることができることを証明できます。フィッシング攻撃により不正にあなたの識別情報を署名させられてしまうことを防ぐために、不明確なものやランダムなものに対して署名しないよう注意してください。合意することが可能な、よく詳細の記された文言にのみ署名するようにしてください。</translation>
     </message>
     <message>
-        <source>The Aurum address to sign the message with</source>
-        <translation>メッセージを署名するAurumアドレス</translation>
+        <source>The Aurumcoin address to sign the message with</source>
+        <translation>メッセージを署名するAurumcoin AUアドレス</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2319,8 +2319,8 @@
         <translation>現在の署名をシステムのクリップボードにコピーする</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Aurum address</source>
-        <translation>この Aurum アドレスを所有していることを証明するためにメッセージに署名</translation>
+        <source>Sign the message to prove you own this Aurumcoin address</source>
+        <translation>この Aurumcoin AU アドレスを所有していることを証明するためにメッセージに署名</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2343,12 +2343,12 @@
         <translation>受取人のアドレスとメッセージ（改行やスペース、タブなども完全に一致するよう注意してください）および署名を以下に入力し、メッセージの署名を検証してください。中間者攻撃により騙されるのを防ぐため、署名対象のメッセージに書かれていること以上の意味を署名から読み取ろうとしないよう注意してください。これは署名作成者がこのアドレスで受け取ったことを証明するだけであり、トランザクションの送信権限を証明するものではないことに注意してください！</translation>
     </message>
     <message>
-        <source>The Aurum address the message was signed with</source>
-        <translation>メッセージの署名に使われたAurumアドレス</translation>
+        <source>The Aurumcoin address the message was signed with</source>
+        <translation>メッセージの署名に使われたAurumcoin AUアドレス</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Aurum address</source>
-        <translation>指定された Aurum アドレスで署名されたことを保証するメッセージを検証</translation>
+        <source>Verify the message to ensure it was signed with the specified Aurumcoin address</source>
+        <translation>指定された Aurumcoin AU アドレスで署名されたことを保証するメッセージを検証</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2414,12 +2414,12 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Aurum Core</source>
-        <translation>Aurum のコア</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU のコア</translation>
     </message>
     <message>
-        <source>The Aurum Core developers</source>
-        <translation>Aurumコア開発者</translation>
+        <source>The Bitcoin Core developers</source>
+        <translation>ビットコインコアの開発者</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2936,8 +2936,8 @@
         <translation>ひとつのウォレットトランザクションで使用する合計手数料 (%s 単位) の最大値。低すぎる値を指定すると巨大なトランザクションの作成ができなくなります (規定値: %s)</translation>
     </message>
     <message>
-        <source>Please check that your computer's date and time are correct! If your clock is wrong Aurum Core will not work properly.</source>
-        <translation>あなたのPCの日付と時刻が正しいことを確認して下さい！ もしあなたの時計が正しくなければAurum Coreが正確に動作しません。</translation>
+        <source>Please check that your computer's date and time are correct! If your clock is wrong Aurumcoin AU will not work properly.</source>
+        <translation>あなたのPCの日付と時刻が正しいことを確認して下さい！ もしあなたの時計が正しくなければAurumcoin AUが正確に動作しません。</translation>
     </message>
     <message>
         <source>Prune configured below the minimum of %d MiB.  Please use a higher number.</source>
@@ -3008,8 +3008,8 @@
         <translation>これはリリース前のテストビルドです - 各自の責任で利用すること - 採掘や商取引に使用しないでください</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Bitcoin Core is probably already running.</source>
-        <translation>このコンピュータの %s にバインドすることができません。おそらく Bitcoin Core は既に実行されています。</translation>
+        <source>Unable to bind to %s on this computer. Aurumcoin AU is probably already running.</source>
+        <translation>このコンピュータの %s にバインドすることができません。おそらく Aurumcoin AU は既に実行されています。</translation>
     </message>
     <message>
         <source>Use UPnP to map the listening port (default: 1 when listening and no -proxy)</source>
@@ -3217,8 +3217,8 @@
         <translation>指定されたアドレスに対して JSON-RPC 接続をリッスンしするようバインドします。IPv6の場合には [host]:port 表記を使用してください。このオプションは複数回指定することが可能です (初期値: すべてのインターフェースに対してバインドする)</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Aurum Core is probably already running.</source>
-        <translation>データ ディレクトリ %s のロックを取得することができません。おそらく Aurum Core は実行中です。</translation>
+        <source>Cannot obtain a lock on data directory %s. Aurumcoin AU is probably already running.</source>
+        <translation>データ ディレクトリ %s のロックを取得することができません。おそらく Aurumcoin AU は実行中です。</translation>
     </message>
     <message>
         <source>Create new files with system default permissions, instead of umask 077 (only effective with disabled wallet functionality)</source>
@@ -3317,12 +3317,12 @@
         <translation>SOCKS5 プロキシ経由で接続する</translation>
     </message>
     <message>
-        <source>Copyright (C) 2009-%i The Aurum Core Developers</source>
-        <translation>Copyright (C) 2009-%i Aurum Core 開発者</translation>
+        <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
+        <translation>Copyright (C) 2009-%i Bitcoin Core 開発者</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Aurum Core</source>
-        <translation>wallet.dat の読み込みに失敗しました: ウォレットの読み込みにはより新しいバージョンの Aurum Core が必要です</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Aurumcoin AU</source>
+        <translation>wallet.dat の読み込みに失敗しました: ウォレットの読み込みにはより新しいバージョンの Aurumcoin AU が必要です</translation>
     </message>
     <message>
         <source>Error reading from database, shutting down.</source>
@@ -3337,8 +3337,8 @@
         <translation>情報</translation>
     </message>
     <message>
-        <source>Initialization sanity check failed. Aurum Core is shutting down.</source>
-        <translation>初期化時の健全性チェックに失敗しました。Aurum Coreを終了します。</translation>
+        <source>Initialization sanity check failed. Aurumcoin AU is shutting down...</source>
+        <translation>初期化時の健全性チェックに失敗しました。Aurumcoin AUを終了します。</translation>
     </message>
     <message>
         <source>Invalid amount for -maxtxfee=&lt;amount&gt;: '%s'</source>
@@ -3457,8 +3457,8 @@
         <translation>JSON-RPC 接続のユーザー名</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Aurum Core to complete</source>
-        <translation>ウォレットが書き直される必要がありました: 完了するために Aurum Core を再起動します</translation>
+        <source>Wallet needed to be rewritten: restart Aurumcoin AU to complete</source>
+        <translation>ウォレットが書き直される必要がありました: 完了するために Aurumcoin AU を再起動します</translation>
     </message>
     <message>
         <source>Warning</source>

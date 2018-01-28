@@ -34,12 +34,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Биткойн ядро</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
-        <translation>За Златенкойн ядрото</translation>
+        <source>&amp;About Aurumcoin AU</source>
+        <translation>За Биткойн ядрото</translation>
     </message>
     </context>
 <context>
@@ -57,19 +57,19 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Биткойн ядро</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>За Златенкойн ядрото</translation>
+        <source>About Aurumcoin AU</source>
+        <translation>За Биткойн ядрото</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Биткойн ядро</translation>
     </message>
     </context>
 <context>
@@ -120,8 +120,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Биткойн ядро</translation>
     </message>
     </context>
 <context>

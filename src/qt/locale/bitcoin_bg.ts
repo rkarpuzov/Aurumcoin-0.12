@@ -66,12 +66,12 @@
         <translation>Адреси за получаване</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Aurumcoin address for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>Това са адресите на получателите на плащания. Винаги проверявайте размера на сумата и адреса на получателя, преди да изпратите монети.</translation>
     </message>
     <message>
-        <source>These are your Bitcoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Това са Вашите Златенкойн адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
+        <source>These are your Aurumcoin address for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Това са Вашите Aurumcoin адреси,благодарение на които ще получавате плащания.Препоръчително е да използвате нови адреси за получаване на всяка транзакция.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -160,7 +160,7 @@
         <translation>Потвърдете на шифрирането на портфейла</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR BITCOINS&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR AURUMCOINS&lt;/b&gt;!</source>
         <translation>ВНИМАНИЕ: Ако шифрирате вашият портфейл и изгубите паролата си, &lt;b&gt;ЩЕ ИЗГУБИТЕ ВСИЧКИТЕ СИ БИТКОИНИ&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -168,8 +168,8 @@
         <translation>Наистина ли желаете да шифрирате портфейла си?</translation>
     </message>
     <message>
-        <source>Bitcoin Core will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your bitcoins from being stolen by malware infecting your computer.</source>
-        <translation>Златенкойн сега ще се затоври за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите монети от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
+        <source>Aurumcoin AU will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your aurumcoins from being stolen by malware infecting your computer.</source>
+        <translation>Биткоин сега ще се затоври за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите монети от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
     </message>
     <message>
         <source>IMPORTANT: Any previous backups you have made of your wallet file should be replaced with the newly generated, encrypted wallet file. For security reasons, previous backups of the unencrypted wallet file will become useless as soon as you start using the new, encrypted wallet.</source>
@@ -294,12 +294,12 @@
         <translation>Отвори &amp;URI...</translation>
     </message>
     <message>
-        <source>Bitcoin Core client</source>
+        <source>Aurumcoin AU client</source>
         <translation>Bitcoin Core клиент</translation>
     </message>
     <message>
-        <source>Send coins to a Bitcoin address</source>
-        <translation>Изпращане към Златенкойн адрес</translation>
+        <source>Send coins to a Aurumcoin AU address</source>
+        <translation>Изпращане към Биткоин адрес</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -323,7 +323,7 @@
     </message>
     <message>
         <source>Bitcoin</source>
-        <translation>Златенкойн</translation>
+        <translation>Биткойн</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -338,8 +338,8 @@
         <translation>&amp;Получаване</translation>
     </message>
     <message>
-        <source>Show information about Bitcoin Core</source>
-        <translation>Покажете информация за Златенкойн ядрото</translation>
+        <source>Show information about Aurumcoin AU</source>
+        <translation>Покажете информация за Aurumcoin AUто</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
@@ -354,12 +354,12 @@
         <translation>Шифроване на личните ключове,които принадлежат на портфейла Ви.</translation>
     </message>
     <message>
-        <source>Sign messages with your Bitcoin addresses to prove you own them</source>
-        <translation>Пишете съобщения със своя Златенкойн адрес за да докажете,че е ваш.</translation>
+        <source>Sign messages with your Aurumcoin address to prove you own them</source>
+        <translation>Пишете съобщения със своя Aurumcoin адрес за да докажете,че е ваш.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Bitcoin addresses</source>
-        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Златенкойн адреси.</translation>
+        <source>Verify messages to ensure they were signed with specified Aurumcoin address</source>
+        <translation>Потвърждаване на съобщения  за да се знае,че са написани с дадените Aurumcoin адреси.</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -378,15 +378,15 @@
         <translation>Раздели</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and bitcoin: URIs)</source>
-        <translation>Изискване на плащания(генерира QR кодове и биткойн: URIs)</translation>
+        <source>Request payments (generates QR codes and aurumcoin: URIs)</source>
+        <translation>Изискване на плащания(генерира QR кодове и aurumcoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About Bitcoin Core</source>
+        <source>&amp;About Aurumcoin AU</source>
         <translation>&amp;Относно Bitcoin Core</translation>
     </message>
     <message>
@@ -398,16 +398,16 @@
         <translation>Покажи списък с използваните адреси и имена.</translation>
     </message>
     <message>
-        <source>Open a bitcoin: URI or payment request</source>
-        <translation>Отворете биткойн: URI  или заявка за плащане</translation>
+        <source>Open a aurumcoin: URI or payment request</source>
+        <translation>Отворете aurumcoin: URI  или заявка за плащане</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Налични команди</translation>
     </message>
     <message>
-        <source>Show the Bitcoin Core help message to get a list with possible Bitcoin command-line options</source>
-        <translation>Покажи помощните съобщения на Златенкойн за да видиш наличните и валидни команди</translation>
+        <source>Show the Aurumcoin AU help message to get a list with possible Bitcoin command-line options</source>
+        <translation>Покажи помощните съобщения на Aurumcoin AU за да видиш наличните и валидни команди</translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -745,8 +745,8 @@
         <translation>Вече има адрес "%1" в списъка с адреси.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Bitcoin address.</source>
-        <translation>"%1" не е валиден Златенкойн адрес.</translation>
+        <source>The entered address "%1" is not a valid Aurumcoin address.</source>
+        <translation>"%1" не е валиден Биткоин адрес.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -783,8 +783,8 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU</translation>
     </message>
     <message>
         <source>version</source>
@@ -795,8 +795,8 @@
         <translation>(%1-битов)</translation>
     </message>
     <message>
-        <source>About Bitcoin Core</source>
-        <translation>Относно Златенкойн ядротО</translation>
+        <source>About Aurumcoin AU</source>
+        <translation>Относно Bitcoin Core</translation>
     </message>
     <message>
         <source>Command-line options</source>
@@ -818,12 +818,12 @@
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Welcome to Bitcoin Core.</source>
-        <translation>Добре дошли в Златенкойн ядрото.</translation>
+        <source>Welcome to Aurumcoin AU.</source>
+        <translation>Добре дошли в Aurumcoin AUто.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Bitcoin Core will store its data.</source>
-        <translation>Тъй като това е първото стартиране на програмата можете да изберете къде Биткон ядрото да запази данните си.</translation>
+        <source>As this is the first time the program is launched, you can choose where Aurumcoin AU will store its data.</source>
+        <translation>Тъй като това е първото стартиране на програмата можете да изберете къде Aurumcoin AU да запази данните си.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -834,8 +834,8 @@
         <translation>Използване на директория ръчно</translation>
     </message>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU</translation>
     </message>
     <message>
         <source>Error</source>
@@ -900,7 +900,7 @@
         <translation>&amp;Мрежа</translation>
     </message>
     <message>
-        <source>Automatically start Bitcoin Core after logging in to the system.</source>
+        <source>Automatically start Aurumcoin AU after logging in to the system.</source>
         <translation>Автоматично стартиране на Bitcoin Core след влизане в системата.</translation>
     </message>
     <message>
@@ -928,8 +928,8 @@
         <translation>Отваряне на входящия порт чрез &amp;UPnP</translation>
     </message>
     <message>
-        <source>Connect to the Bitcoin network through a SOCKS5 proxy.</source>
-        <translation>Свързване с Златенкойн мрежата чрез SOCKS5  прокси.</translation>
+        <source>Connect to the Aurumcoin AU network through a SOCKS5 proxy.</source>
+        <translation>Свързване с Aurumcoin AU мрежата чрез SOCKS5  прокси.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS5 proxy (default proxy):</source>
@@ -1023,8 +1023,8 @@
         <translation>Формуляр</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Bitcoin network after a connection is established, but this process has not completed yet.</source>
-        <translation>Текущата информация на екрана може да не е актуална. Вашият портфейл ще се синхронизира автоматично с мрежата на Златенкойн, щом поне една връзката с нея се установи; този процес все още не е приключил.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Aurumcoin AU network after a connection is established, but this process has not completed yet.</source>
+        <translation>Текущата информация на екрана може да не е актуална. Вашият портфейл ще се синхронизира автоматично с мрежата на Биткоин, щом поне една връзката с нея се установи; този процес все още не е приключил.</translation>
     </message>
     <message>
         <source>Watch-only:</source>
@@ -1098,8 +1098,8 @@
         <translation>Възникна грешка по време назаявката за плащане</translation>
     </message>
     <message>
-        <source>Cannot start bitcoin: click-to-pay handler</source>
-        <translation>Златенкойн не можe да се стартира: click-to-pay handler</translation>
+        <source>Cannot start aurumcoin: click-to-pay handler</source>
+        <translation>Aurumcoin AU не можe да се стартира: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment request file handling</source>
@@ -1156,8 +1156,8 @@
         <translation>Сума</translation>
     </message>
     <message>
-        <source>Enter a Bitcoin address (e.g. %1)</source>
-        <translation>Въведете Златенкойн адрес (например: %1)</translation>
+        <source>Enter a Aurumcoin address (e.g. %1)</source>
+        <translation>Въведете Aurumcoin адрес (например: %1)</translation>
     </message>
     <message>
         <source>%1 d</source>
@@ -1554,12 +1554,8 @@
         <translation>Настройки за контрол на монетите</translation>
     </message>
     <message>
-        <source>Inputs...</source>
-        <translation>Входящи...</translation>
-    </message>
-    <message>
         <source>automatically selected</source>
-        <translation>автоматично избрани</translation>
+        <translation>астоматично избран</translation>
     </message>
     <message>
         <source>Insufficient funds!</source>
@@ -1587,19 +1583,15 @@
     </message>
     <message>
         <source>After Fee:</source>
-        <translation>След такси:</translation>
+        <translation>След прилагане на ДДС</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Ресто:</translation>
+        <translation>Ресто</translation>
     </message>
     <message>
         <source>If this is activated, but the change address is empty or invalid, change will be sent to a newly generated address.</source>
         <translation>Ако тази опция е активирана,но адресът на промяна е празен или невалиден,промяната ще бъде изпратена на новосъздаден адрес.</translation>
-    </message>
-    <message>
-        <source>Custom change address</source>
-        <translation>Потребителска смяна на адрес</translation>
     </message>
     <message>
         <source>Transaction Fee:</source>
@@ -1730,8 +1722,8 @@
         <translation>Заявката за плащане е изтекла.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Bitcoin address</source>
-        <translation>Внимание: Невалиден Златенкойн адрес</translation>
+        <source>Warning: Invalid Aurumcoin address</source>
+        <translation>Внимание: Невалиден Aurumcoin адрес</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1812,8 +1804,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Bitcoin Core is shutting down...</source>
-        <translation>Златенкойн ядрото се изключва...</translation>
+        <source>Aurumcoin AU is shutting down...</source>
+        <translation>Aurumcoin AUто се изключва...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1859,7 +1851,7 @@
         <translation>Копиране на текущия подпис</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Bitcoin address</source>
+        <source>Sign the message to prove you own this Aurumcoin address</source>
         <translation>Подпишете съобщение като доказателство, че притежавате определен адрес</translation>
     </message>
     <message>
@@ -1875,8 +1867,8 @@
         <translation>&amp;Провери</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Bitcoin address</source>
-        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Златенкойн адрес</translation>
+        <source>Verify the message to ensure it was signed with the specified Aurumcoin address</source>
+        <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Биткоин адрес</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1938,8 +1930,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Bitcoin Core</source>
-        <translation>Златенкойн ядро</translation>
+        <source>Aurumcoin AU</source>
+        <translation>Aurumcoin AU</translation>
     </message>
     <message>
         <source>The Bitcoin Core developers</source>
@@ -2465,7 +2457,7 @@
     </message>
     <message>
         <source>Copyright (C) 2009-%i The Bitcoin Core Developers</source>
-        <translation>Всички права запазени (C) 2009-%i Доставчиците на Златенкойн</translation>
+        <translation>Всички права запазени (C) 2009-%i Доставчиците на Bitcoin, Aurumcoin AU</translation>
     </message>
     <message>
         <source>Information</source>

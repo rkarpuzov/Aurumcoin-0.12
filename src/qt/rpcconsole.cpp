@@ -264,12 +264,6 @@ RPCConsole::RPCConsole(const PlatformStyle *platformStyle, QWidget *parent) :
 
     // set library version labels
 
-#if (OPENSSL_VERSION_NUMBER < 0x10100000L)
-    ui->openSSLVersion->setText(SSLeay_version(SSLEAY_VERSION));
-#else
-    ui->openSSLVersion->setText(OpenSSL_version(OPENSSL_VERSION));
-#endif
-
 #ifdef ENABLE_WALLET
     ui->berkeleyDBVersion->setText(DbEnv::version(0, 0, 0));
 #else
@@ -488,7 +482,7 @@ void RPCConsole::clear()
             ).arg(fixedFontInfo.family(), ptSize)
         );
 
-    message(CMD_REPLY, (tr("Welcome to the Bitcoin Core RPC console.") + "<br>" +
+    message(CMD_REPLY, (tr("Welcome to the Aurumcoin AU RPC console.") + "<br>" +
                         tr("Use up and down arrows to navigate history, and <b>Ctrl-L</b> to clear screen.") + "<br>" +
                         tr("Type <b>help</b> for an overview of available commands.")), true);
 }
